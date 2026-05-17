@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://ruangrintis.com/sitemap.xml
+Sitemap: https://ruangrintis.web.id/sitemap.xml
